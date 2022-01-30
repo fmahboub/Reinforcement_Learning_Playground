@@ -15,13 +15,10 @@ Agent (x) must learn to navigate to a the bottom left corner of a 20x20 grid (.)
 <img src="Challenge 2.png" width="500" height="375">
 
 ## Challenge 3
-### Learn to navigate to a randomly plaed target with randomly placed obstacles
+Agent (A) must learn to navigate through a 25x25 grid (.) to a randomly placed target (X) with randomly placed obstacles (O)
 
 <img src="Challenge_3.png" width="500" height="375">
 
-### Video of Training Progress
-https://www.linkedin.com/posts/fmahboub_gans-neuralnetworks-activity-6730575941287985152-ZTXZ
-
 ### References
-https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
+
 
