@@ -5,7 +5,7 @@ A repository devoted to reinforcement learning experimentation. Using Gym and St
 The specific algorithm used: https://stable-baselines.readthedocs.io/en/master/modules/a2c.html
 
 ## Challenge 1
-###Learn to navigate to the bottom left corner of the grid
+### Learn to navigate to the bottom left corner of the grid
 ![plot](TrainingData_Example.png)
 
 ### Image Generation Example (20 Epochs)
