@@ -7,17 +7,17 @@ The specific algorithm used: https://stable-baselines.readthedocs.io/en/master/m
 ## Challenge 1
 Agent must learn to navigate to the bottom left corner of a 15x15 grid. Agent represented by (x) and possible positions represented by (.)
 
-<img src="Challenge_1.png" width="360" height="300">
+<img src="images/Challenge_1.png" width="360" height="300">
 
 ## Challenge 2
 Agent (x) must learn to navigate to a the bottom left corner of a 20x20 grid (.) with fixed obstacles (O)
 
-<img src="Challenge_2.png" width="500" height="375">
+<img src="images/Challenge_2.png" width="500" height="375">
 
 ## Challenge 3
 Agent (A) must learn to navigate through a 25x25 grid (.) to a randomly placed target (X) with randomly placed obstacles (O)
 
-<img src="Challenge_3.png" width="600" height="450">
+<img src="images/Challenge_3.png" width="600" height="450">
 
 ### References
 Stable-Baselines3: https://github.com/DLR-RM/stable-baselines3
