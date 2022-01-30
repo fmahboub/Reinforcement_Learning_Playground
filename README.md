@@ -1,0 +1,2 @@
+# Reinforcement_Learning_Playground
+A repository devoted to reinforcement learning experimentation
