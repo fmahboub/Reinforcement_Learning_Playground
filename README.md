@@ -12,7 +12,7 @@ Agent must learn to navigate to the bottom left corner of a 15x15 grid. Agent re
 ## Challenge 2
 Agent (x) must learn to navigate to a the bottom left corner of a 20x20 grid (.) with fixed obstacles (O)
 
-<img src="Challenge 2.png" width="500" height="375">
+<img src="Challenge_2.png" width="500" height="375">
 
 ## Challenge 3
 Agent (A) must learn to navigate through a 25x25 grid (.) to a randomly placed target (X) with randomly placed obstacles (O)
