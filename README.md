@@ -6,7 +6,7 @@ The specific algorithm used: https://stable-baselines.readthedocs.io/en/master/m
 
 ## Challenge 1
 ### Learn to navigate to the bottom left corner of the grid
-![plot](TrainingData_Example.png)
+![plot]()
 
 ## Challenge 2
 ### Learn to navigate to a randomly plaed target with fixed obstacles
