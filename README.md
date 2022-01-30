@@ -17,7 +17,7 @@ Agent (x) must learn to navigate to a the bottom left corner of a 20x20 grid (.)
 ## Challenge 3
 Agent (A) must learn to navigate through a 25x25 grid (.) to a randomly placed target (X) with randomly placed obstacles (O)
 
-<img src="Challenge_3.png" width="500" height="375">
+<img src="Challenge_3.png" width="600" height="450">
 
 ### References
 
