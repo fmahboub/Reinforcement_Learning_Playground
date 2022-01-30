@@ -20,5 +20,6 @@ Agent (A) must learn to navigate through a 25x25 grid (.) to a randomly placed t
 <img src="Challenge_3.png" width="600" height="450">
 
 ### References
+Stable-Baselines3: https://github.com/DLR-RM/stable-baselines3
 
 
