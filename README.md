@@ -8,11 +8,13 @@ The specific algorithm used: https://stable-baselines.readthedocs.io/en/master/m
 ### Learn to navigate to the bottom left corner of the grid
 ![plot](TrainingData_Example.png)
 
-### Image Generation Example (20 Epochs)
+## Challenge 2
+### Learn to navigate to a randomly plaed target with fixed obstacles
 ![plot](generated_plot_e0020.png)
 
-### Image Generation Example (176 Epochs)
-![plot](generated_plot_e176.png)
+## Challenge 3
+### Learn to navigate to a randomly plaed target with randomly placed obstacles
+![plot](generated_plot_e0020.png)
 
 ### Video of Training Progress
 https://www.linkedin.com/posts/fmahboub_gans-neuralnetworks-activity-6730575941287985152-ZTXZ
